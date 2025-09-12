@@ -1,4 +1,3 @@
-"""
 # Wireless Mouse Using Hand Gesture
 
 This project allows you to control your computer mouse using **hand gestures** captured via a webcam.  
